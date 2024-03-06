@@ -2,10 +2,10 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.cjs",
   "type": "module",
   "scripts": {
-    "nodemon": "nodemon index.js"
+    "nodemon": "nodemon app.cjs"
   },
   "author": "Daniel Megyeri",
   "license": "ISC",
