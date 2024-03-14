@@ -2,14 +2,15 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
-    "nodemon": "nodemon index.js"
+    "nodemon": "nodemon app.js"
   },
   "author": "Daniel Megyeri",
   "license": "ISC",
   "devDependencies": {
+    "csvtojson": "^2.0.10",
     "nodemon": "^3.1.0"
   }
 }
